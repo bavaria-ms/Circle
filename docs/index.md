@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages for Bavarial International Medical Services
 
 You can use the [editor on GitHub](https://github.com/bavaria-ms/website/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
